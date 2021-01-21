@@ -1,0 +1,2 @@
+C:\Users\孙统\Desktop\c-code\test_1_21_try\Debug\test_1_21_try.exe
+C:\Users\孙统\Desktop\c-code\test_1_21_try\Debug\test_1_21_try.pdb
