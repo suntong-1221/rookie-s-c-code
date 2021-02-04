@@ -1,0 +1,2 @@
+C:\Users\孙统\Desktop\c-code\test_2_3\Debug\game2.exe
+C:\Users\孙统\Desktop\c-code\test_2_3\Debug\game2.pdb
